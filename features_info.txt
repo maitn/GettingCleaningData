@@ -6,7 +6,7 @@ Refer below Feature Selection for information about raw data.
 
 All measurements for features and signals in the raw data were selected for this analysis if mean(), std() or meanFreq() had been applied.
 
-As there were multiple measurements for each volunteer and activity, data was summarised by applying the mean to the mutliple rows in each column.  This was done to achieve one record by observation (volunteer & activity combination).
+As there were multiple measurements for each volunteer and activity, data was summarised by applying the mean to the mutliple rows in each column.  This was done to achieve one record per observation (volunteer & activity combination).
 
 Columnames and unit of measurements were not altered from the original raw file.
 
