@@ -8,7 +8,7 @@ All measurements for features and signals in the raw data were selected for this
 
 As there were multiple measurements for each volunteer and activity, data was summarised by applying the mean to the mutliple rows in each column.  This was done to achieve one record by observation (volunteer & activity combination).
 
-Columnames were not altered from the original raw file.
+Columnames and unit of measurements were not altered from the original raw file.
 
 
 =================
